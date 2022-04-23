@@ -1,1 +1,1 @@
-# Readme-generator-java
+# Readme Generator
