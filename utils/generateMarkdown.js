@@ -44,7 +44,7 @@ ${renderLicenseBadge(data.license)}
 - [Contributions](#contributors)
 - [Test Instructions](#testing)
 - [Contact](#questions)
-- [liscence](#license)
+- [license](#license)
 
 ## Instructions:
 
