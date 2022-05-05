@@ -34,9 +34,20 @@ const questions = () => {
 },
 {
     name:"test",
-    message: "What are the contribution guidelines instruction:",
+    message: "What are the testing instructions:",
     type: "input",
-}])
+},
+{
+    name:"github",
+    message: "What is your Github username:",
+    type: "input",
+},
+{
+    name:"email",
+    message: "What is your email:",
+    type: "input",
+}
+])
 }
 
 function writeToFile(data){
