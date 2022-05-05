@@ -41,30 +41,30 @@ ${renderLicenseBadge(data.license)}
 ## Table of Contents
 - [Description](#description)
 - [Instructions](#instructions)
-- [Contributions](#contribution)
+- [Contributions](#contributors)
 - [Test Instructions](#testing)
 - [Contact](#questions)
 - [liscence](#license)
 
 ## Instructions:
-<blockquote>
-${data.instructions}
-</blockquote>
 
-## Contribution:
-<blockquote>
+${data.instructions}
+
+
+## Contributors:
+
 ${data.contribution}
-</blockquote>
+
 
 ## Testing:
-<blockquote>
+
 ${data.test}
-</blockquote>
+
 
 ## Questions:
 [Github](https://github.com/${data.github})
 <br>
-Email: (${data.email})
+Email: ${data.email}
 
 
 ## License:
